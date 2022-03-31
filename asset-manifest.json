@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/appListFilms_on_ReactJS/static/css/main.544c6023.css",
+    "main.js": "/appListFilms_on_ReactJS/static/js/main.b9aad77d.js",
+    "index.html": "/appListFilms_on_ReactJS/index.html",
+    "main.544c6023.css.map": "/appListFilms_on_ReactJS/static/css/main.544c6023.css.map",
+    "main.b9aad77d.js.map": "/appListFilms_on_ReactJS/static/js/main.b9aad77d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.544c6023.css",
+    "static/js/main.b9aad77d.js"
+  ]
+}
